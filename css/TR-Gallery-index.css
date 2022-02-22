@@ -174,7 +174,7 @@ margin-top: 5%;
 }
 video{
   width:  25%;
-  objct-fit:  contain;
+  object-fit:  contain;
 }
 /*
 .navbar-toggler {
